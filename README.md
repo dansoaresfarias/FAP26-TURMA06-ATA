@@ -1,2 +1,2 @@
 # FAP26-TURMA06-ATA
-Exercício do FAP 2026 turma 06 - Git...
+Exercício do FAP 2026 turma 06 - Prática em GIT.
